@@ -1,0 +1,77 @@
+
+.buttons{
+    height: 60px;
+    width: 1450px;
+    position: absolute;
+  }
+  .editbtn{
+    margin-left: 50px;
+    margin-top: 550px;
+  }
+  .reset{
+  
+    
+  }
+  .undo{
+  
+  }
+  .input_vongloai{
+    margin-top: 5px;
+  }
+  .thenhap{
+    width: 44px;
+  }
+  .thenhapmau{
+    width: 58px;
+  }
+  .vongloai_text{
+  
+  }
+  .vongloai_vong{
+  
+  }
+  .mauve{
+    margin-top: 5px;
+  }
+  .mauve_text{
+    
+  }
+  .mauve_ve{
+    
+  }
+  
+  .buttonso{
+    margin-left: 130px;
+    display: flex;
+    margin-top: -80px;
+    display:block;
+  }
+  .soloto{
+    position: relative;
+    margin-left: 30px;
+    width: 29px;
+    margin-top: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #5666a5;
+    font-family: 'Raleway', Arial, sans-serif;
+    color: #ffffff;
+  }
+  .undo{
+    background-color: red;
+    color: #ffffff;
+    border-radius: 5px;
+  }
+  .reset{
+    background-color:aqua;
+    color: crimson;
+    border-radius: 5px;
+  }
+  .vongloai_vong{
+    border-radius: 5px;
+    background-color:chartreuse;
+  }
+  .mauve_ve{
+    border-radius: 5px;
+    background-color:chartreuse;
+  }
